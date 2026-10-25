@@ -1,4 +1,6 @@
 name:soumya m k
 usn:4ik25cs201
 dep:cse
+lab :cdd
+
 
